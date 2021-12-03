@@ -57,11 +57,22 @@ hr {
 }
 
 .middle-container {
- margin-top: 60px;
+ padding-top: 60px;
+ background-color: #EDEEF7;
+}
+
+.educaion {
+  padding-bottom: 15px;
+}
+
+.hr-line {
+  margin-bottom: 0; 
 }
 
 .experience {
-padding-bottom: 30px;
+  background-color: #E4FBFF;
+  padding-bottom: 30px;
+  padding-top: 20px;
 }
 
 .bottom-container {
@@ -113,7 +124,6 @@ padding-bottom: 20px;
 
 .contact-me {
   padding: 10px 0 30px;
-  margin-bottom: 10px;
 }
 
 .contact-p {
