@@ -63,16 +63,41 @@ hr {
 
 .educaion {
   padding-bottom: 15px;
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
 }
 
-.hr-line {
-  margin-bottom: 0; 
+.hr-skills {
+  margin-bottom: 0;
 }
 
 .experience {
   background-color: #E4FBFF;
   padding-bottom: 30px;
   padding-top: 20px;
+}
+
+.experience-row {
+  position: relative;
+}
+
+.exp-heading {
+  width: 25%;
+  margin-top: 0;
+  position: absolute;
+  left: 300px;
+  float: left;
+}
+
+.work-roles {
+  width: 30%;
+  text-align: left;
+  margin: 100px 0 50px 700px;
+}
+
+.list {
+  line-height: 1;
 }
 
 .bottom-container {
